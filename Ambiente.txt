@@ -1,0 +1,20 @@
+
+//Api info
+
+https://www.yelp.ie/developers/documentation
+
+Client ID
+MR85_Q1w13AkkFnMBjTd9g
+
+API Key
+nN1sPs2O7oGQ2XNUTTisf4g6GSQlgDb6p9XQ36VQHG7CaSPjlRAr-o1fVQAfXDTjH9KR7AR3S7KBC0QoBKHm-o2xSY1z09g8p1t6peQwOi7tlUv6JUPfAfu-l2s5XnYx
+
+//Considerações
+
+//instalar desta forma, o curso está desatualizado
+expo install react-navigation react-native-gesture-handler@1.3.0 react-native-reanimated react-native-screens react-navigation-stack react-native-safe-area-context @react-native-community/masked-view
+
+Our imports in the upcoming lecture will now look like this:
+
+import { createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
